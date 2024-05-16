@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "anand-s-kamble",
+  "version": "1.0.0",
+  "description": "login validation and making update",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand",
+  "license": "ISC"
+}
